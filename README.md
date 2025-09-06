@@ -1,12 +1,7 @@
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Amaan7866/salesforce-website-ui.git
-    ```
-2. Open `index.html` in your browser to view the website.
-
+Demo visit the live demo : https://amaan7866.github.io/salesforce-website-ui/
 
 ## 🤔 Why This Project?
 
